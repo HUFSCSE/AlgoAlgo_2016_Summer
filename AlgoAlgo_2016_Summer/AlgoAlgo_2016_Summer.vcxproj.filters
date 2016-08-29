@@ -201,7 +201,10 @@
     <ClCompile Include="p_2042%28Fenwick_Tree%29.cpp">
       <Filter>소스 파일\0820</Filter>
     </ClCompile>
-    <ClCompile Include="p_.cpp">
+    <ClCompile Include="p_2530.cpp">
+      <Filter>소스 파일\0820</Filter>
+    </ClCompile>
+    <ClCompile Include="p_1826.cpp">
       <Filter>소스 파일\0820</Filter>
     </ClCompile>
   </ItemGroup>
