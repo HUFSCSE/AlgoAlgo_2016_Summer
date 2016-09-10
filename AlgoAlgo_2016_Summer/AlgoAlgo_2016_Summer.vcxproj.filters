@@ -49,6 +49,15 @@
     <Filter Include="소스 파일\0830">
       <UniqueIdentifier>{77fb687e-2a98-472b-a569-1c84d592d401}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\0902">
+      <UniqueIdentifier>{254d87d0-7fc4-4550-ab6d-0cc743303a51}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\0903">
+      <UniqueIdentifier>{ea1b18c0-c1ee-427e-8405-f040a8227ccb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\0910">
+      <UniqueIdentifier>{9d31dd7d-b6c9-4d27-940e-7ef6847b3618}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="p_2178.cpp">
@@ -216,10 +225,45 @@
     <ClCompile Include="p_11067.cpp">
       <Filter>소스 파일\0830</Filter>
     </ClCompile>
+    <ClCompile Include="p_11068.cpp">
+      <Filter>소스 파일\0830</Filter>
+    </ClCompile>
+    <ClCompile Include="p_10254_error.cpp">
+      <Filter>소스 파일\0902</Filter>
+    </ClCompile>
+    <ClCompile Include="p_10254.cpp">
+      <Filter>소스 파일\0902</Filter>
+    </ClCompile>
+    <ClCompile Include="p_10253.cpp">
+      <Filter>소스 파일\0902</Filter>
+    </ClCompile>
+    <ClCompile Include="p_10252.cpp">
+      <Filter>소스 파일\0902</Filter>
+    </ClCompile>
+    <ClCompile Include="p_3758.cpp">
+      <Filter>소스 파일\0903</Filter>
+    </ClCompile>
+    <ClCompile Include="p_7662.cpp">
+      <Filter>소스 파일\0903</Filter>
+    </ClCompile>
+    <ClCompile Include="p_9011.cpp">
+      <Filter>소스 파일\0910</Filter>
+    </ClCompile>
+    <ClCompile Include="p_9007.cpp">
+      <Filter>소스 파일\0910</Filter>
+    </ClCompile>
+    <ClCompile Include="p_9009.cpp">
+      <Filter>소스 파일\0910</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MinMaxHeap.h">
+      <Filter>소스 파일\0903</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="..\..\..\..\..\Desktop\C++초기설정.txt">
-      <Filter>소스 파일</Filter>
+      <Filter>리소스 파일</Filter>
     </Text>
   </ItemGroup>
 </Project>
