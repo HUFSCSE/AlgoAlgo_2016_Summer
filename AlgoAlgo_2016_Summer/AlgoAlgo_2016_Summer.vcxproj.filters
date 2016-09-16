@@ -61,6 +61,12 @@
     <Filter Include="소스 파일\0911">
       <UniqueIdentifier>{a99f8842-138a-417f-9103-11557d526ae2}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\0914">
+      <UniqueIdentifier>{cb721ff0-637c-4d3b-bf96-56c96b89e507}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\0916">
+      <UniqueIdentifier>{da34b8e3-714f-4df3-8cc2-97367fcdb71d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="p_2178.cpp">
@@ -266,6 +272,21 @@
     </ClCompile>
     <ClCompile Include="p_13206.cpp">
       <Filter>소스 파일\0911</Filter>
+    </ClCompile>
+    <ClCompile Include="p_9020.cpp">
+      <Filter>소스 파일\0916</Filter>
+    </ClCompile>
+    <ClCompile Include="p_9019.cpp">
+      <Filter>소스 파일\0916</Filter>
+    </ClCompile>
+    <ClCompile Include="p_2482.cpp">
+      <Filter>소스 파일\0916</Filter>
+    </ClCompile>
+    <ClCompile Include="p_10937.cpp">
+      <Filter>소스 파일\0916</Filter>
+    </ClCompile>
+    <ClCompile Include="p_3300_error.cpp">
+      <Filter>소스 파일\0914</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
