@@ -67,6 +67,15 @@
     <Filter Include="소스 파일\0916">
       <UniqueIdentifier>{da34b8e3-714f-4df3-8cc2-97367fcdb71d}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\0917">
+      <UniqueIdentifier>{020d3f93-2083-4a30-a546-430e6bafe651}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\0920">
+      <UniqueIdentifier>{541845f0-5b7c-4fd9-b567-d08884e5eb7f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\0924">
+      <UniqueIdentifier>{bda7a056-5dec-4a33-a052-452428151237}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="p_2178.cpp">
@@ -287,6 +296,48 @@
     </ClCompile>
     <ClCompile Include="p_3300_error.cpp">
       <Filter>소스 파일\0914</Filter>
+    </ClCompile>
+    <ClCompile Include="p_2662.cpp">
+      <Filter>소스 파일\0917</Filter>
+    </ClCompile>
+    <ClCompile Include="p_1431.cpp">
+      <Filter>소스 파일\0917</Filter>
+    </ClCompile>
+    <ClCompile Include="p_11047.cpp">
+      <Filter>소스 파일\0917</Filter>
+    </ClCompile>
+    <ClCompile Include="p_10973.cpp">
+      <Filter>소스 파일\0917</Filter>
+    </ClCompile>
+    <ClCompile Include="p_4344.cpp">
+      <Filter>소스 파일\0917</Filter>
+    </ClCompile>
+    <ClCompile Include="p_10825.cpp">
+      <Filter>소스 파일\0917</Filter>
+    </ClCompile>
+    <ClCompile Include="p_10821.cpp">
+      <Filter>소스 파일\0917</Filter>
+    </ClCompile>
+    <ClCompile Include="p_9037.cpp">
+      <Filter>소스 파일\0920</Filter>
+    </ClCompile>
+    <ClCompile Include="p_1700.cpp">
+      <Filter>소스 파일\0920</Filter>
+    </ClCompile>
+    <ClCompile Include="p_11501.cpp">
+      <Filter>소스 파일\0924</Filter>
+    </ClCompile>
+    <ClCompile Include="p_11066.cpp">
+      <Filter>소스 파일\0924</Filter>
+    </ClCompile>
+    <ClCompile Include="p_11502.cpp">
+      <Filter>소스 파일\0924</Filter>
+    </ClCompile>
+    <ClCompile Include="p_11497.cpp">
+      <Filter>소스 파일\0924</Filter>
+    </ClCompile>
+    <ClCompile Include="p_11504.cpp">
+      <Filter>소스 파일\0924</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
