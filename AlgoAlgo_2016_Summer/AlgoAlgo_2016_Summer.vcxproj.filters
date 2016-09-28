@@ -76,6 +76,9 @@
     <Filter Include="소스 파일\0924">
       <UniqueIdentifier>{bda7a056-5dec-4a33-a052-452428151237}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\0927">
+      <UniqueIdentifier>{82b43171-b63f-45cf-b96a-1c98c28c1bc4}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="p_2178.cpp">
@@ -338,6 +341,12 @@
     </ClCompile>
     <ClCompile Include="p_11504.cpp">
       <Filter>소스 파일\0924</Filter>
+    </ClCompile>
+    <ClCompile Include="p_2281.cpp">
+      <Filter>소스 파일\0927</Filter>
+    </ClCompile>
+    <ClCompile Include="p_2616.cpp">
+      <Filter>소스 파일\0927</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
